@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/dc4d48b3fbb0496896834b0624f3f798/artifacts
+end_time: 1727030514337
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: dc4d48b3fbb0496896834b0624f3f798
+run_name: stylish-elk-363
+run_uuid: dc4d48b3fbb0496896834b0624f3f798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030513032
+status: 3
+tags: []
+user_id: asada

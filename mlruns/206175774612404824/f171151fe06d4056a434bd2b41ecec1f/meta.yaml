@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/f171151fe06d4056a434bd2b41ecec1f/artifacts
+end_time: 1727030496894
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: f171151fe06d4056a434bd2b41ecec1f
+run_name: kindly-deer-255
+run_uuid: f171151fe06d4056a434bd2b41ecec1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030496473
+status: 3
+tags: []
+user_id: asada

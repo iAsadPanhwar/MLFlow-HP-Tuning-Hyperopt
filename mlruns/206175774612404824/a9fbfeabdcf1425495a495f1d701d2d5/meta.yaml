@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/a9fbfeabdcf1425495a495f1d701d2d5/artifacts
+end_time: 1727030502086
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: a9fbfeabdcf1425495a495f1d701d2d5
+run_name: enchanting-asp-693
+run_uuid: a9fbfeabdcf1425495a495f1d701d2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030501302
+status: 3
+tags: []
+user_id: asada

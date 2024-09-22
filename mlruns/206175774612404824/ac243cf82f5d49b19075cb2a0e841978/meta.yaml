@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/ac243cf82f5d49b19075cb2a0e841978/artifacts
+end_time: 1727030502699
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: ac243cf82f5d49b19075cb2a0e841978
+run_name: stately-cub-341
+run_uuid: ac243cf82f5d49b19075cb2a0e841978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030502235
+status: 3
+tags: []
+user_id: asada

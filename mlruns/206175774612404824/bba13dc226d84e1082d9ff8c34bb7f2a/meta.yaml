@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/bba13dc226d84e1082d9ff8c34bb7f2a/artifacts
+end_time: 1727030495091
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: bba13dc226d84e1082d9ff8c34bb7f2a
+run_name: omniscient-auk-177
+run_uuid: bba13dc226d84e1082d9ff8c34bb7f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030494568
+status: 3
+tags: []
+user_id: asada

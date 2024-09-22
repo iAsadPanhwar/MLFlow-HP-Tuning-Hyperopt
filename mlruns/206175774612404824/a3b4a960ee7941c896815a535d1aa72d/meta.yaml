@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/a3b4a960ee7941c896815a535d1aa72d/artifacts
+end_time: 1727030506072
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: a3b4a960ee7941c896815a535d1aa72d
+run_name: treasured-rat-105
+run_uuid: a3b4a960ee7941c896815a535d1aa72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030505479
+status: 3
+tags: []
+user_id: asada

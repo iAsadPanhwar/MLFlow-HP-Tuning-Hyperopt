@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/ddfd5c9ab096448398f6adac7fa6b84d/artifacts
+end_time: 1727030042335
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: ddfd5c9ab096448398f6adac7fa6b84d
+run_name: worried-squirrel-473
+run_uuid: ddfd5c9ab096448398f6adac7fa6b84d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030041881
+status: 4
+tags: []
+user_id: asada

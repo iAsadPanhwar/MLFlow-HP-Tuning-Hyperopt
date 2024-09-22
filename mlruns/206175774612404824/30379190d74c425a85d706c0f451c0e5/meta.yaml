@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/30379190d74c425a85d706c0f451c0e5/artifacts
+end_time: 1727030515323
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 30379190d74c425a85d706c0f451c0e5
+run_name: bittersweet-crow-795
+run_uuid: 30379190d74c425a85d706c0f451c0e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030514622
+status: 3
+tags: []
+user_id: asada

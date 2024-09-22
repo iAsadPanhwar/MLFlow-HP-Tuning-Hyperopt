@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/7bc01af2c0f942419fa1dd702ae36624/artifacts
+end_time: 1727030486203
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 7bc01af2c0f942419fa1dd702ae36624
+run_name: honorable-gnat-198
+run_uuid: 7bc01af2c0f942419fa1dd702ae36624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030485473
+status: 3
+tags: []
+user_id: asada

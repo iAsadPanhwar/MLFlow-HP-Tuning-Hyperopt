@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/d5cdc20e1cea421c91eb28cfc832519c/artifacts
+end_time: 1727030509269
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: d5cdc20e1cea421c91eb28cfc832519c
+run_name: loud-snail-606
+run_uuid: d5cdc20e1cea421c91eb28cfc832519c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030508330
+status: 3
+tags: []
+user_id: asada

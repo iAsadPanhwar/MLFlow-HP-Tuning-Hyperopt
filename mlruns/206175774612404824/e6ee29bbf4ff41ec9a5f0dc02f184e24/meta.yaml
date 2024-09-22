@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/e6ee29bbf4ff41ec9a5f0dc02f184e24/artifacts
+end_time: 1727030521293
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: e6ee29bbf4ff41ec9a5f0dc02f184e24
+run_name: wistful-hare-207
+run_uuid: e6ee29bbf4ff41ec9a5f0dc02f184e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030520614
+status: 3
+tags: []
+user_id: asada

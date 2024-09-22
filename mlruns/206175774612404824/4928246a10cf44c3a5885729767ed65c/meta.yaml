@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/4928246a10cf44c3a5885729767ed65c/artifacts
+end_time: 1727030504972
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 4928246a10cf44c3a5885729767ed65c
+run_name: exultant-pug-658
+run_uuid: 4928246a10cf44c3a5885729767ed65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030504464
+status: 3
+tags: []
+user_id: asada

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/13691e5c2dc2410c8250b8fbdf29d4be/artifacts
+end_time: 1727030483354
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 13691e5c2dc2410c8250b8fbdf29d4be
+run_name: loud-crab-29
+run_uuid: 13691e5c2dc2410c8250b8fbdf29d4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030482640
+status: 3
+tags: []
+user_id: asada

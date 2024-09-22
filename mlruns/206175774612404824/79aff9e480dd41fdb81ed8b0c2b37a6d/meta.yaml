@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/79aff9e480dd41fdb81ed8b0c2b37a6d/artifacts
+end_time: 1727030496353
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 79aff9e480dd41fdb81ed8b0c2b37a6d
+run_name: learned-roo-430
+run_uuid: 79aff9e480dd41fdb81ed8b0c2b37a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030495564
+status: 3
+tags: []
+user_id: asada

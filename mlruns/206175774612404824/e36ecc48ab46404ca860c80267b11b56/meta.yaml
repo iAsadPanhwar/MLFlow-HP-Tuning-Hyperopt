@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/e36ecc48ab46404ca860c80267b11b56/artifacts
+end_time: 1727030481735
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: e36ecc48ab46404ca860c80267b11b56
+run_name: ambitious-fowl-307
+run_uuid: e36ecc48ab46404ca860c80267b11b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030480883
+status: 3
+tags: []
+user_id: asada

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/0bb6002244214e6a976f5d022ea3bdaf/artifacts
+end_time: 1727030503405
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 0bb6002244214e6a976f5d022ea3bdaf
+run_name: bemused-gnat-532
+run_uuid: 0bb6002244214e6a976f5d022ea3bdaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030502828
+status: 3
+tags: []
+user_id: asada

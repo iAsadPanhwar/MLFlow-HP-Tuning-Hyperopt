@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/616bdad50324497f919ec4b1c99669a6/artifacts
+end_time: 1727030492698
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 616bdad50324497f919ec4b1c99669a6
+run_name: masked-gull-798
+run_uuid: 616bdad50324497f919ec4b1c99669a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030492209
+status: 3
+tags: []
+user_id: asada

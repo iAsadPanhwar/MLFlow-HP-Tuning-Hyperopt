@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/9ad008a2fa1842aba352ce0f7e1f6feb/artifacts
+end_time: 1727030504304
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 9ad008a2fa1842aba352ce0f7e1f6feb
+run_name: rogue-skink-880
+run_uuid: 9ad008a2fa1842aba352ce0f7e1f6feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030503611
+status: 3
+tags: []
+user_id: asada

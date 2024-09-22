@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/0300cd486244491eb4f474c669a44f8e/artifacts
+end_time: 1727030493704
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 0300cd486244491eb4f474c669a44f8e
+run_name: fortunate-hog-269
+run_uuid: 0300cd486244491eb4f474c669a44f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030492826
+status: 3
+tags: []
+user_id: asada

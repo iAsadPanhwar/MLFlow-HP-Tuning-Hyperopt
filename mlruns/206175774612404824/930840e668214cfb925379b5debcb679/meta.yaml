@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/930840e668214cfb925379b5debcb679/artifacts
+end_time: 1727030505396
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 930840e668214cfb925379b5debcb679
+run_name: wistful-crow-289
+run_uuid: 930840e668214cfb925379b5debcb679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030505078
+status: 3
+tags: []
+user_id: asada

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/bf809108c11047589f860466e528fd0a/artifacts
+end_time: 1727030484423
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: bf809108c11047589f860466e528fd0a
+run_name: vaunted-worm-767
+run_uuid: bf809108c11047589f860466e528fd0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030483514
+status: 3
+tags: []
+user_id: asada

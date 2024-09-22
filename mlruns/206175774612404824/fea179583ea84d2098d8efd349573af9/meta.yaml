@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/fea179583ea84d2098d8efd349573af9/artifacts
+end_time: 1727030042233
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: fea179583ea84d2098d8efd349573af9
+run_name: resilient-shrimp-846
+run_uuid: fea179583ea84d2098d8efd349573af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030042070
+status: 4
+tags: []
+user_id: asada

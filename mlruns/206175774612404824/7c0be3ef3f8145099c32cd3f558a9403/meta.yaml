@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/7c0be3ef3f8145099c32cd3f558a9403/artifacts
+end_time: 1727030489041
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 7c0be3ef3f8145099c32cd3f558a9403
+run_name: dapper-seal-523
+run_uuid: 7c0be3ef3f8145099c32cd3f558a9403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030488117
+status: 3
+tags: []
+user_id: asada

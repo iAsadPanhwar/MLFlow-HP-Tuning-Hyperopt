@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/496c2e5216624644806328f574db9758/artifacts
+end_time: 1727030489862
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 496c2e5216624644806328f574db9758
+run_name: welcoming-deer-451
+run_uuid: 496c2e5216624644806328f574db9758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030489188
+status: 3
+tags: []
+user_id: asada

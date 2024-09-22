@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/dab1c87eaff24be78595ebd38b0a7d55/artifacts
+end_time: 1727030509921
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: dab1c87eaff24be78595ebd38b0a7d55
+run_name: unleashed-conch-43
+run_uuid: dab1c87eaff24be78595ebd38b0a7d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030509440
+status: 3
+tags: []
+user_id: asada

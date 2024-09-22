@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/2a26d6596ce941d8a0ea14b7acd355ef/artifacts
+end_time: 1727030519307
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 2a26d6596ce941d8a0ea14b7acd355ef
+run_name: honorable-crab-113
+run_uuid: 2a26d6596ce941d8a0ea14b7acd355ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030518550
+status: 3
+tags: []
+user_id: asada

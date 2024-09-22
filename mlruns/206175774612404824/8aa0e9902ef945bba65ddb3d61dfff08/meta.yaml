@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/8aa0e9902ef945bba65ddb3d61dfff08/artifacts
+end_time: 1727030498313
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 8aa0e9902ef945bba65ddb3d61dfff08
+run_name: salty-grub-100
+run_uuid: 8aa0e9902ef945bba65ddb3d61dfff08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030497553
+status: 3
+tags: []
+user_id: asada

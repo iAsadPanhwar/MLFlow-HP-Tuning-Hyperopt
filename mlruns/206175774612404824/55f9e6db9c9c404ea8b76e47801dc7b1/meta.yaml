@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/55f9e6db9c9c404ea8b76e47801dc7b1/artifacts
+end_time: 1727030506647
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 55f9e6db9c9c404ea8b76e47801dc7b1
+run_name: sincere-steed-958
+run_uuid: 55f9e6db9c9c404ea8b76e47801dc7b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030506184
+status: 3
+tags: []
+user_id: asada

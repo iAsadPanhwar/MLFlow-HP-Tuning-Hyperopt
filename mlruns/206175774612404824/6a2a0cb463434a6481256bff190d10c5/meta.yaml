@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/6a2a0cb463434a6481256bff190d10c5/artifacts
+end_time: 1727030520383
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 6a2a0cb463434a6481256bff190d10c5
+run_name: capable-snail-191
+run_uuid: 6a2a0cb463434a6481256bff190d10c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030519480
+status: 3
+tags: []
+user_id: asada

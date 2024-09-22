@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/bba8598a9ff3471d9210ded4cceebc73/artifacts
+end_time: 1727030522235
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: bba8598a9ff3471d9210ded4cceebc73
+run_name: Main Run
+run_uuid: bba8598a9ff3471d9210ded4cceebc73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030479829
+status: 3
+tags: []
+user_id: asada

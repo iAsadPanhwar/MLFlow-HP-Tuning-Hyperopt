@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/67bf75ddb9e54018928fcfd76969fd7a/artifacts
+end_time: 1727030508169
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 67bf75ddb9e54018928fcfd76969fd7a
+run_name: popular-ray-677
+run_uuid: 67bf75ddb9e54018928fcfd76969fd7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030506753
+status: 3
+tags: []
+user_id: asada

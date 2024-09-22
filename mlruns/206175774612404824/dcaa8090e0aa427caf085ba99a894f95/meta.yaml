@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/dcaa8090e0aa427caf085ba99a894f95/artifacts
+end_time: 1727030495494
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: dcaa8090e0aa427caf085ba99a894f95
+run_name: wistful-zebra-810
+run_uuid: dcaa8090e0aa427caf085ba99a894f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030495187
+status: 3
+tags: []
+user_id: asada

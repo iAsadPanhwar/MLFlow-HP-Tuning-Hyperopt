@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/d20cf585bde942e3a2b467a0fab3c5ea/artifacts
+end_time: 1727030482496
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: d20cf585bde942e3a2b467a0fab3c5ea
+run_name: defiant-skink-181
+run_uuid: d20cf585bde942e3a2b467a0fab3c5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030481932
+status: 3
+tags: []
+user_id: asada

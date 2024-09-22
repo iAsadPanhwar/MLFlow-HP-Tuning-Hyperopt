@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206175774612404824/14bde275d4094763951d78dfd3959f8e/artifacts
+end_time: 1727030516326
+entry_point_name: ''
+experiment_id: '206175774612404824'
+lifecycle_stage: active
+run_id: 14bde275d4094763951d78dfd3959f8e
+run_name: inquisitive-gnat-278
+run_uuid: 14bde275d4094763951d78dfd3959f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727030515509
+status: 3
+tags: []
+user_id: asada
